@@ -3,7 +3,7 @@ title: "Summer"
 date: "2018-10-01T14:25:41.000Z"
 tags: 
   - "output"
-coverImage: "45_summer.jpg"
+coverImage: "45_summer.png"
 material_number: "45"
 material_type: "output"
 material_short_descr: "Seeed Studio Grove – Buzzer"
