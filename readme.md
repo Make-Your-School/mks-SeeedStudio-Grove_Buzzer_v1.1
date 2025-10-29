@@ -16,9 +16,6 @@ repo_part: "Grove_Buzzer_v1.1"
 product_url: "https://wiki.seeedstudio.com/Grove-Buzzer/"
 clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Buzzer_v1.1.git"
 embedded_example_file: "examples/Grove_Buzzer_v1.1_minimal/Grove_Buzzer_v1.1_minimal.ino"
-title: 'Summer'
-status: 'active'
-difficulty: 'recommend'
 ---
 
 
