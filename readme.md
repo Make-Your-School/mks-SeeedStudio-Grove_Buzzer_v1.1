@@ -26,8 +26,6 @@ difficulty: 'recommend'
 ![Summer](./45_summer.png)
 
 
-![Summer](./45_summer.png)
-
 ## Beschreibung
 
 
